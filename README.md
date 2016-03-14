@@ -12,9 +12,6 @@ This is a simple socket-based Client Server file transfer Application in Java
 The best way to compile and run would be to import the project in to Netbean or Eclipse IDE
 and run it from there. 
 
-I have already included client.jar and server.jar files in Executables folder which 
-is in the main project (ClientServerFileTransfer) folder.
-
 Steps to compile and run the project
 
 1. Download the project to your computer
